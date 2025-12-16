@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\WEB\\Lab 8\\Web1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3675AF7E-9B96-40DC-9E7E-7F4BBCBB566F}|Web1.csproj|c:\\users\\pc\\documents\\web\\lab 8\\web1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3675AF7E-9B96-40DC-9E7E-7F4BBCBB566F}|Web1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3675AF7E-9B96-40DC-9E7E-7F4BBCBB566F}|Web1.csproj|c:\\users\\pc\\documents\\web\\lab 8\\web1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3675AF7E-9B96-40DC-9E7E-7F4BBCBB566F}|Web1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3675AF7E-9B96-40DC-9E7E-7F4BBCBB566F}|Web1.csproj|c:\\users\\pc\\documents\\web\\lab 8\\web1\\dal\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3675AF7E-9B96-40DC-9E7E-7F4BBCBB566F}|Web1.csproj|solutionrelative:dal\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3675AF7E-9B96-40DC-9E7E-7F4BBCBB566F}|Web1.csproj|c:\\users\\pc\\documents\\web\\lab 8\\web1\\dal\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3675AF7E-9B96-40DC-9E7E-7F4BBCBB566F}|Web1.csproj|solutionrelative:dal\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3675AF7E-9B96-40DC-9E7E-7F4BBCBB566F}|Web1.csproj|c:\\users\\pc\\documents\\web\\lab 8\\web1\\controllers\\todoitemswithsqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3675AF7E-9B96-40DC-9E7E-7F4BBCBB566F}|Web1.csproj|solutionrelative:controllers\\todoitemswithsqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3675AF7E-9B96-40DC-9E7E-7F4BBCBB566F}|Web1.csproj|c:\\users\\pc\\documents\\web\\lab 8\\web1\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3675AF7E-9B96-40DC-9E7E-7F4BBCBB566F}|Web1.csproj|solutionrelative:controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3675AF7E-9B96-40DC-9E7E-7F4BBCBB566F}|Web1.csproj|c:\\users\\pc\\documents\\web\\lab 8\\web1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3675AF7E-9B96-40DC-9E7E-7F4BBCBB566F}|Web1.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3675AF7E-9B96-40DC-9E7E-7F4BBCBB566F}|Web1.csproj|c:\\users\\pc\\documents\\web\\lab 8\\web1\\model\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3675AF7E-9B96-40DC-9E7E-7F4BBCBB566F}|Web1.csproj|solutionrelative:model\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WEB\\Lab 8\\Web1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WEB\\Lab 8\\Web1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:11:49.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WEB\\Lab 8\\Web1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WEB\\Lab 8\\Web1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T06:37:21.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiKeyMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WEB\\Lab 8\\Web1\\DAL\\ApiKeyMiddleware.cs",
+              "RelativeDocumentMoniker": "DAL\\ApiKeyMiddleware.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WEB\\Lab 8\\Web1\\DAL\\ApiKeyMiddleware.cs",
+              "RelativeToolTip": "DAL\\ApiKeyMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:12:18.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoItemsWithSQLController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WEB\\Lab 8\\Web1\\Controllers\\TodoItemsWithSQLController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoItemsWithSQLController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WEB\\Lab 8\\Web1\\Controllers\\TodoItemsWithSQLController.cs",
+              "RelativeToolTip": "Controllers\\TodoItemsWithSQLController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T06:55:39.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WEB\\Lab 8\\Web1\\DAL\\Database.cs",
+              "RelativeDocumentMoniker": "DAL\\Database.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WEB\\Lab 8\\Web1\\DAL\\Database.cs",
+              "RelativeToolTip": "DAL\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T06:41:13.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WEB\\Lab 8\\Web1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WEB\\Lab 8\\Web1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T06:03:59.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WEB\\Lab 8\\Web1\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WEB\\Lab 8\\Web1\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "Controllers\\TodoItemsController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwEMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T05:58:38.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\WEB\\Lab 8\\Web1\\Model\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Model\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\WEB\\Lab 8\\Web1\\Model\\TodoItem.cs",
+              "RelativeToolTip": "Model\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T05:56:01.128Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
